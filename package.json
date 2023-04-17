@@ -66,5 +66,24 @@
     "globals": {
       "JSX": true
     }
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anhnd1995/archaon-ui.git"
+  },
+  "peerDependencies": {
+    "react": ">=16"
+  },
+  "files": [
+    "dist",
+    "LICENSE",
+    "README.md"
+  ],
+  "keywords": [
+    "react",
+    "typescript",
+    "archaon"
+  ],
+  "author": "Archaon Generative"
+
 }
